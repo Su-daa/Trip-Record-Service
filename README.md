@@ -8,7 +8,8 @@
   - 여행 정보(출발,도착,출발시각,도착시간)과 숙박(체크인,체크아웃) 화면 기능 설계 			
   - 여행 정보와 특정 여행 정보의 여정 목록은 데이터 저장 경로에 파일 형태로 저장 (CSV, json 등)
   - 여행자 관리 화면 기능 설계 			
-
+- 순수 Java 프로젝트
+  
 ### 프로젝트 기획안
 - RFP : https://drive.google.com/file/d/1GHE_wG3ojz3NTNjxusquABm7wfKhjcKR/view
 
